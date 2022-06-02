@@ -29,4 +29,9 @@ flutter:
 
   assets:
     # Add assets from the images directory to the application.
-    - assets/images/
+    - images/
+
+  fonts:
+    family: Pacifico
+    fonts:
+      asset: fonts/Pacifico-Regular.ttf
