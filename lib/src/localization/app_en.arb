@@ -1,0 +1,6 @@
+{
+  "appTitle": "mi_card",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
